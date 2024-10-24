@@ -4,6 +4,7 @@ public class Toss{
     String decision;
     
     public String call (String call){
+        #newChange
               
         int toss = (int)(Math.random()*2);
         
